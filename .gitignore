@@ -1,0 +1,11 @@
+*
+*.pyc
+.ipynb_checkpoints/
+*.caffemodel
+*.DS_Store
+*.jpg
+!*.py
+!*.ipynb
+!*.prototxt
+!.gitignore
+!*/
